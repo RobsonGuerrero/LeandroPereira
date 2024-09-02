@@ -1,7 +1,9 @@
 @charset "UTF-8";
 
 .circulo {
-  clip-path: circle();
+  width: 300px;
+  height: 300px;
+  clip-path: circle(50% at 50%);
 }
 
 .roda {
